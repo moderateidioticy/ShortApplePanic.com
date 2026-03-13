@@ -7,3 +7,7 @@ body {
 *:hover {
   color: #FF9191 !important;
 }
+#MEDIATITLE {
+  color: red;
+  heading-background: purple
+}
