@@ -3,6 +3,7 @@ body {
 }
 * {
   color: white !important;
+  font-family: 'Times New Roman';
 }
 *:hover {
   color: #FF9191 !important;
